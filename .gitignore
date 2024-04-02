@@ -1,0 +1,7 @@
+.env
+
+# virtual environments
+.venv/
+.venv-laptop/
+
+.git/
